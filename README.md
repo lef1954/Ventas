@@ -35,9 +35,3 @@ Organizar y ejecutar acciones de marketing tradicional para promover el servicio
 
 ---
 
-## 💡 Sugerencias de Publicación
-
-- Nombre del archivo: `marketing-tradicional-fastnet.md`
-- Ubicación recomendada en GitHub: `/proyectos/marketing-tradicional/`
-- Repositorio sugerido: `fastnet-acciones` o `fastnet-marketing`
-
